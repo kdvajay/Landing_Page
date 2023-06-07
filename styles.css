@@ -259,6 +259,7 @@ img {
 
 .orders-title {
   height:auto;
+  min-height:30vh;
   font-size: 1.8rem;
   padding: 0.5rem 0.5rem;
 }
@@ -267,8 +268,8 @@ img {
 .orders.orders-tile {
   color:var(--main-gray);
   height: auto;
-  max-height:70vh;
-  min-height:40vh;
+  max-height:100vh;
+  min-height:50vh;
 }
 
 .btn {
