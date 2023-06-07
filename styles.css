@@ -193,10 +193,10 @@ img {
   align-items: start;
   width: 50%;
   height: auto;
-  max-height:90vh;
+  max-height:100vh;
   background-color:rgba(220,127,119,0.6) ;
   margin: auto 20vh;
-  padding:20px;
+  padding:4rem;
 }
 
 /* Orders section */
