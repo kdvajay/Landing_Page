@@ -222,7 +222,7 @@ img {
 /* "Automagic" image grid using no media queries */
 .orders-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   grid-gap: 4rem;
   width: 100%;
   max-width: 1280px;
@@ -311,7 +311,7 @@ img {
   height: auto;
   max-height:60vh;
   padding: 0 2rem;
-  margin:2rem 0;
+  margin:4rem 0;
 }
 
 .contact-section-header > h2 {
@@ -356,9 +356,10 @@ footer {
   font-weight: 300;
   display: flex;
   justify-content: space-evenly;
-  padding: 2rem;
   background: var(--main-gray);
   border-top: 4px solid var(--main-red);
+  padding-top:2rem;
+  margin-bottom:0;
 }
 
 footer > p {
