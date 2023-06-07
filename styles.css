@@ -305,7 +305,7 @@ img {
 
 .contact-section {
   display: flex;
-  flex-direction: coloumn;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   text-align: center;
