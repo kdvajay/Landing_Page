@@ -193,6 +193,7 @@ img {
   align-items: start;
   width: 50%;
   height: auto;
+  max-height:90vh;
   background-color:rgba(220,127,119,0.6) ;
   margin: auto 20vh;
   padding:20px;
@@ -308,6 +309,7 @@ img {
   text-align: center;
   width: 100%;
   height: auto;
+  max-height:60vh;
   padding: 0 2rem;
   margin:2rem 0;
 }
